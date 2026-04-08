@@ -209,12 +209,6 @@ python -m pytest tests/test_operators.py
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
----
-
-## 👨‍💻 作者
-
-**Igglepig-gle**  
-- GitHub: [@Igglepig-gle](https://github.com/Igglepig-gle)
 
 ---
 
@@ -226,12 +220,6 @@ python -m pytest tests/test_operators.py
 - 💬 提供反馈和建议
 - 🐛 报告问题
 
----
-
-## 📞 联系方式与问题反馈
-
-- **问题**: [GitHub Issues](https://github.com/Igglepig-gle/Integro-Differential-Operators/issues)
-- **讨论**: [GitHub Discussions](https://github.com/Igglepig-gle/Integro-Differential-Operators/discussions)
 
 ---
 
