@@ -66,9 +66,7 @@ Integro-Differential-Operators/
 2. **积分分量** 
 
 一般形式：
-```
-L[f](x) = ∫ K(x,t) f(t) dt + d/dx[f(x)] + ...
-```
+$$D^\alpha f(t) = \frac{1}{\Gamma(m-\alpha)} \int_0^t \frac{f^{(m)}(\tau)}{(t-\tau)^{\alpha-m+1}} \text{d}\tau, \quad (m-1) \le \alpha < m$$
 
 ### 主要应用领域
 
